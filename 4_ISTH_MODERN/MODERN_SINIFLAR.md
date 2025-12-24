@@ -18,4 +18,11 @@ Küresel denizaltı teknolojisindeki zirve platformların detaylı teknik analiz
 | **Dolphin 2**| İsrail | Stratejik Sensör Paketi | [**İncele**](./10_DOLPHIN2_ISRAEL/README.md) |
 
 ---
+
+### 🕵️ Asimetrik Tehditler (Non-State Assets)
+Devlet dışı aktörler ve illegal platformlar üzerine teknik analizler:
+
+*   [**Narco-Submarines (LPV)**](./NARCO_SUB_INTEL/README.md): Yarı-dalabilir narkotik taşımacılık araçları uzman raporu.
+
+---
 *“Derinliklerin hakimi olmak için teknolojiyi bilmek zorunluluktur.”*
