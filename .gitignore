@@ -1,0 +1,11 @@
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Workspace
+.gemini/
+.idea/
+.vscode/
+
+# Assets Backup
+readme_backup.txt
