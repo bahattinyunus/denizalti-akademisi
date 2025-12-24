@@ -2,13 +2,20 @@
 
 ## 🎖️ Dünyanın En Teknolojik 10 Denizaltı Sınıfı
 
-1. **Seawolf (ABD):** Soğuk Savaş'ın "sessiz katili".
-2. **Virginia (ABD):** Modüler tasarım ve optik sensör devrimi.
-3. **Borei (Rusya):** Modern Rus nükleer caydırıcılığının kalesi.
-4. **Astute (İngiltere):** Gelişmiş algoritmalı sonar kütüphanesi.
-5. **Type 214 (Almanya/Türkiye):** Dünyanın en başarılı AIP sınıfı.
-6. **Soryu (Japonya):** Lityum-İyon batarya öncüsü.
-7. **Yasen (Rusya):** Çok amaçlı seyir füzesi platformu.
-8. **Suffren (Fransa):** Barracuda programının nükleer meyvesi.
-9. **Collins (Avustralya):** Uzun menzilli konvansiyonel operasyon gücü.
-10. **Dolphin 2 (İsrail):** Stratejik caydırıcılık ve özel sensör paketi.
+Küresel denizaltı teknolojisindeki zirve platformların detaylı teknik analizlerine aşağıdaki bağlantılardan ulaşabilirsiniz:
+
+| Sınıf | Menşei | Temel Karakteristik | Detaylı İstihbarat |
+| :--- | :--- | :--- | :--- |
+| **Seawolf** | ABD | Sessiz Katil / Pump-Jet | [**İncele**](./01_SEAWOLF_USA/README.md) |
+| **Virginia** | ABD | Modülerlik / Fotonik Mast | [**İncele**](./02_VIRGINIA_USA/README.md) |
+| **Borei** | Rusya | Nükleer Caydırıcılık | [**İncele**](./03_BOREI_RUSSIA/README.md) |
+| **Astute** | İngiltere | Gelişmiş Sonar Takımı | [**İncele**](./04_ASTUTE_UK/README.md) |
+| **Type 214** | Alm / Tr | Global AIP Standardı | [**İncele**](./05_TYPE214_GER_TUR/README.md) |
+| **Soryu** | Japonya | Li-Ion Batarya Devrimi | [**İncele**](./06_SORYU_JAPAN/README.md) |
+| **Yasen** | Rusya | Çok Amaçlı Hipersonik Güç | [**İncele**](./07_YASEN_RUSSIA/README.md) |
+| **Suffren** | Fransa | Çevik Nükleer Atak | [**İncele**](./08_SUFFREN_FRANCE/README.md) |
+| **Collins** | Avustralya | Uzun Menzilli Konvansiyonel | [**İncele**](./09_COLLINS_AUSTRALIA/README.md) |
+| **Dolphin 2**| İsrail | Stratejik Sensör Paketi | [**İncele**](./10_DOLPHIN2_ISRAEL/README.md) |
+
+---
+*“Derinliklerin hakimi olmak için teknolojiyi bilmek zorunluluktur.”*
