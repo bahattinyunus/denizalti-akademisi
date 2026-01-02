@@ -2,6 +2,8 @@
 
 Bu bölümde hidrodinamik tasarım, mukavim tekne malzemeleri, stealth (iz gizleme) kaplamaları ve genel platform mimarisi izlenmektedir.
 
+> **💡 Derinlemesine Okuma:** [Stealth (Görünmezlik) Teknolojileri: Detaylı Analiz](./STEALTH_TEKNOLOJISI_ANALIZI.md)
+
 ## 📌 Trendler
 
 Geleneksel silindirik gövde yapısının dışına çıkan (bio-mimetik, açılı yüzeyler) ve meta-malzeme teknolojilerini kullanan tasarımlar öne çıkmaktadır.

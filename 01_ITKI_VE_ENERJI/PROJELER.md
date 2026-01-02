@@ -2,6 +2,8 @@
 
 Bu bölümde denizaltı itki sistemleri (AIP, Nükleer, Dizel-Elektrik) ve enerji depolama/dağıtım teknolojileri (Bataryalar, Yakıt Hücreleri) izlenmektedir.
 
+> **💡 Derinlemesine Okuma:** [AIP Sistemleri vs Lityum-İyon Bataryalar: Detaylı Analiz](./AIP_ve_LITYUM_ANALIZI.md)
+
 ## 📌 Aktif Dönüşümler
 
 Denizaltı itki sistemlerinde **Lityum-İyon (Li-Ion)** batarya devrimi ve **Hidrojen Yakıt Pili (AIP)** teknolojilerinin olgunlaşması, geleneksel dizel-elektrik sistemlerini radikal biçimde değiştirmektedir.

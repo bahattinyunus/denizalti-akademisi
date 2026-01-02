@@ -2,6 +2,8 @@
 
 Bu bölümde İnsansız Su Altı Araçları (UUV), Otonom Su Altı Araçları (AUV), Uzaktan Kumandalı Araçlar (ROV) ve denizaltı planörleri (Glider) izlenmektedir.
 
+> **💡 Derinlemesine Okuma:** [XLUUV, MUM-T ve Geleceğin İnsansız Harbi: Detaylı Analiz](./XLUUV_VE_MUMT_ANALIZI.md)
+
 ## 📌 Trendler
 
 "İnsanlı-İnsansız Takımlaşması" (Manned-Unmanned Teaming / MUM-T) ve aylarca su altında kalabilenXL-UUV (Extra Large UUV) platformları ana gelişim alanıdır.

@@ -2,6 +2,8 @@
 
 Bu bölümde sonar, torpido, elektronik harp, su altı haberleşme ve entegre savaş yönetim sistemleri (SYS) teknolojileri izlenmektedir.
 
+> **💡 Derinlemesine Okuma:** [Modern Sonar ve Torpido Harp Teknolojileri: Detaylı Analiz](./SONAR_VE_TORPIDO_ANALIZI.md)
+
 ## 📌 Trendler
 
 Pasif dinlemenin ötesine geçen yapay zeka destekli sonar algoritmaları ve hipersonik silahların denizaltı platformlarına entegrasyonu ana gündem maddesidir.
